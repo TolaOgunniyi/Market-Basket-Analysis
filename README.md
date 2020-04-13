@@ -11,7 +11,7 @@ Use of Machine Learning techniques to create a recommender system
 
 
 ### Dataset
- [Kaggle]().
+ [Kaggle](https://www.kaggle.com/saurav9786/amazon-product-reviews).
 
 ----
 ### Jupyter notebook 
@@ -32,12 +32,9 @@ visualizations were created using Plotly express. The charts have also been incl
 <br> 
 
 ### References
-- https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b
+- https://www.kaggle.com/saurav9786/recommender-system-using-amazon-reviews
+- https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce
 
-
-### Future work based on the dataset
- - Next step would be to explore the dataset with an item-based collaborative filtering techniques and also deep learning 
- to help in comparing the different models to see which performs the best.
 ---
 
 <strong>Thank you very much for taking the time to look at this project. Please feel free to contact me via 
