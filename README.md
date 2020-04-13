@@ -8,7 +8,7 @@
 ### Date completed: March 26, 2020.
 
 ### Introduction:
-A key strategy for large retailers is finding the association between different items/products that are purchased by customers. Market Basket analysis lends itself to this particular goal via rules-based learning (i.e. associations rules mining)
+A key strategy for large retailers is finding the association between different items/products that are purchased by customers. Market Basket analysis lends itself to this particular goal via rules-based learning (i.e. associations rules mining).
 Some of the goals that Market basket analysis can help retailers achieve are listed below:
 - Recommend products
 - Plan a store layout 
