@@ -24,17 +24,14 @@ Some of the goals that Market basket analysis can help retailers achieve are lis
 <br>
 ----
 ### Jupyter notebook 
-The project was completed using a jupyter notebook that consists of 2 parts viz:
+The project consists of two parts listed below that I completed by launching a jupyter notebook instance on Amazon Sagemaker. 
 
 Part 1: 
- (i) Preprocessing and cleaning (ii) Exploratory data analysis
+ - Exploratory data analysis (EDA) 
 
 Part 2:
- Modeliing
+ - Modeling and extraction of .csv file for network analysis.
  ----
- ### Visualizations in the dataset
-There are three figures provided. These are visualizations created in the exploratory data analysis (section ii) of Part 1. All three 
-visualizations were created using Plotly express. The charts have also been included as an image file with links attached.A summary of the each chart is provided below:
 
 ![top terms](images/network_analysis.png)
 <div align="center"> Network analysis or Graph based on associations rules mining</div>
