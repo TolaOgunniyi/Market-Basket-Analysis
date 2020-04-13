@@ -13,7 +13,7 @@ Some of the goals that Market basket analysis can help retailers achieve are lis
 - Recommend products
 - Plan a store layout 
 - Design sale promotions that combine discounted and marked up items.
-- Dicover trigger products(products which when bought together, trigger other purchases) and 
+- Dicover trigger products(products which when bought together, trigger other purchases) 
 
 This kind of data is gold to retailers: We can design promos where one complement is discounted and the rest of the items are marked up, offer discounts for commonly bought items, plan store layout, recommend items, and promote cross-sell and upsel
 
