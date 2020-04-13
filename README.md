@@ -12,7 +12,7 @@ A key strategy for large retailers is finding the association between different 
 Some of the goals that Market basket analysis can help retailers achieve are listed below:
 - Recommend products
 - Plan a store layout 
-- Design sale promotions that combine discounted and marked up items.
+- Design sales promotions that combine discounted and marked up items.
 - Dicover trigger products(products which when bought together, trigger other purchases) 
 ----
 
