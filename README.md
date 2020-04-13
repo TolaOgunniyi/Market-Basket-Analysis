@@ -38,7 +38,7 @@ The project consists of two parts listed below that I completed by launching a j
 - The graph is based on a dataset in which the user provided a rating for the item he or she purchased. As a result,the different clusters do provide an insight as to the preference(s) of a customer(s) when purchasing electronic products on Amazon.
 
 ![top terms](images/network_analysis.png)
-<div align="center"> Network analysis or Graph based on associations rules mining</div>
+<div align="center"> Network analysis based on associations rules mining</div>
 <br> 
 
 
