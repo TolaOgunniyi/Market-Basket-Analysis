@@ -17,8 +17,11 @@ Some of the goals that Market basket analysis can help retailers achieve are lis
 ----
 
 ### Dataset
- I used an Amazon electronics review dataset for my capstone project that I found on [Kaggle](https://www.kaggle.com/saurav9786/amazon-product-reviews).
+ I used an Amazon electronics review dataset for my capstone project that I found on [Kaggle](https://www.kaggle.com/saurav9786/amazon-product-reviews). The dataset contained over 1,000,000 rows. I extracted 600,000 rows of the dataset for my capstone project using command line as shown in the image below.
 
+![top terms](images/command_line.png)
+<div align="center"> Network analysis or Graph based on associations rules mining</div>
+<br>
 ----
 ### Jupyter notebook 
 The project was completed using a jupyter notebook that consists of 2 parts viz:
