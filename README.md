@@ -27,16 +27,8 @@ Part 2:
 There are three figures provided. These are visualizations created in the exploratory data analysis (section ii) of Part 1. All three 
 visualizations were created using Plotly express. The charts have also been included as an image file with links attached.A summary of the each chart is provided below:
 
-![top terms](network_analysis/scores.png)
+![top terms](images/network_analysis.png)
 <div align="center"> Network analysis or Graph based on associations rules mining</div>
-<br> 
-
-![top terms](images/products.png)
-<div align="center"> Figure 2-Distribution of number of times users have assigned a score(s) to different products</div>
-<br> 
-
-![top terms](images/userID.png)
-<div align="center"> Figure 3-Distribution of number of customers that have assigned a score(s) to different products</div>
 <br> 
 
 ### References
