@@ -1,5 +1,5 @@
 # Market-Basket-Analysis
-Use of Machine Learning techniques to create a recommender system
+
 ## Project title: Use of machine learning techniques to create a recommender system.
 
 ### Author: [Tola Ogunniyi](https://www.linkedin.com/in/tolaogunniyi/)
