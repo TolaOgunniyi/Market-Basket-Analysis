@@ -1,0 +1,13 @@
+antecedents,consequents
+frozenset({'B00000J1V5'}),frozenset({'B00000JDF5'})
+frozenset({'B00000JDF5'}),frozenset({'B00000J1V5'})
+frozenset({'B00001P505'}),frozenset({'B00001P4ZH'})
+frozenset({'B00001P4ZH'}),frozenset({'B00001P505'})
+frozenset({'B00000J4FS'}),frozenset({'B00000J434'})
+frozenset({'B00000J434'}),frozenset({'B00000J4FS'})
+frozenset({'B00001OWYM'}),frozenset({'B000001ON6'})
+frozenset({'B000001ON6'}),frozenset({'B00001OWYM'})
+frozenset({'B00000J061'}),frozenset({'B00000JD4V'})
+frozenset({'B00000JD4V'}),frozenset({'B00000J061'})
+frozenset({'B00001OWYM'}),frozenset({'B00000J1EQ'})
+frozenset({'B00000J1EQ'}),frozenset({'B00001OWYM'})
