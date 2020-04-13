@@ -32,10 +32,13 @@ The project consists of two parts listed below that I completed by launching a j
 ### Part 2:
  - Modeling and extraction of .csv file for network analysis.
  ----
+The rules learned from the Market Basket analysis were used to construct the graph shown below. It is a directed graph that consists of 5 main clusters. The different clusters do provide an insight as to how a customer(s) purchased electronic products on Amazon.
 
 ![top terms](images/network_analysis.png)
 <div align="center"> Network analysis or Graph based on associations rules mining</div>
 <br> 
+
+
 
 ### References
 - https://www.kaggle.com/saurav9786/recommender-system-using-amazon-reviews
