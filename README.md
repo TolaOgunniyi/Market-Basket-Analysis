@@ -23,6 +23,7 @@ Some of the goals that Market basket analysis can help retailers achieve are lis
 <div align="center"> Command line script to extract 600,000 rows of data I wanted for my capstone project</div>
 <br>
 ----
+
 ### Jupyter notebook 
 The project consists of two parts listed below that I completed by launching a jupyter notebook instance on Amazon Sagemaker. 
 
