@@ -25,7 +25,7 @@ Some of the goals that Market basket analysis can help retailers achieve are lis
 ----
 
 ### Jupyter notebook 
-The project consists of two parts listed below. I launched a jupyter notebook instance on Amazon Sagemaker to complete work for the project with the exception of graph that was created using Gephi.
+The project consists of two parts listed below. I launched a jupyter notebook instance on Amazon Sagemaker to complete work for the project with the exception of a graph that was created using Gephi.
 
 ### Part 1: 
  - Exploratory data analysis (EDA) 
