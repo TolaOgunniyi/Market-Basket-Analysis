@@ -2,7 +2,7 @@
 
 ## Project title: Use of machine learning techniques to create a recommender system.
 
-### Author: [Tola Ogunniyi](https://www.linkedin.com/in/tolaogunniyi/)
+### Author: [Tola Ogunniyi](https://www.linkedin.com/in/tola-ogunniyi/)
 ----
 
 ### Date completed: March 26, 2020.
