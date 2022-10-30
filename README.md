@@ -36,7 +36,7 @@ The project consists of two parts listed below. I launched a jupyter notebook in
  
 - The rules learned from the Market Basket analysis were further processed to create two .csv files (node and edge) used to construct the graph shown below. It is a directed graph and 5 clusters were successfully identified. The name of the different products in the graph was entered manually as the dataset only provided the ASIN (Amazon Standard Identification number) code. I did not find the name for product with ASIN code B000056SSM, and decided to leave it as it is on the graph. 
 
-- The graph is based on a dataset in which the users provided a rating for the item they have purchased. As a result,the different clusters do provide an insight into the preference(s) of a customer(s) when purchasing electronic products on Amazon.
+- The graph is based on a dataset in which users provided a rating for the item they have purchased. As a result,the different clusters do provide an insight into the preference(s) of a customer(s) when purchasing electronic products on Amazon.
 
 ![top terms](images/network_analysis.png)
 <div align="center"> Network analysis based on associations rules mining</div>
